@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "dia-a-dia-reactnative",
-    "slug": "dia-a-dia-reactnative",
+    "name": "minhas-tarefas-reactnative",
+    "slug": "minhas-tarefas-reactnative",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
